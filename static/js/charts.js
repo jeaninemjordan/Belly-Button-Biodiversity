@@ -112,6 +112,7 @@ function buildCharts(sample) {
         color: otuIDs
       }
     };
+
     
     // Create the layout for the bubble chart.
     var bubbleLayout = {
