@@ -59,7 +59,7 @@ Below is a screenshot of the gauge chart visualizing the number of weekly washes
 
 ![](static/images/gauge.jpg)
 
-Once the web page app was created, it was deployed via Github and can be accessed using the link below:
+Once the web page app was created, it was deployed via Github Pages and can be accessed using the link below:
 
 https://jeaninemjordan.github.io/plotlydeploy.io/ 
 
