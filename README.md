@@ -1,6 +1,6 @@
 # Belly-Button-Biodiversity
 
-![](static/images/bacgif.gif) ![](static/images/bacteriagif2.gif)  ![](static/images/bacgif3.gif)
+![](static/images/bacgif.gif) ![](static/images/bacteriagif2.gif) 
 
 ## Visualizing the Belly Button Biodiversity dataset on an interactive dashboard with Plotly.js and D3 in Javascript to explore the relationships between demographics and the microbial colonies discovered within belly buttons. 
  
