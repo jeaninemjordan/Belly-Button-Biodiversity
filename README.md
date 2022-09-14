@@ -40,7 +40,7 @@ The dashboard features the following tools:
 IMAGES
 
 Once the web page app was created, it was deployed via Github and can be accessed using the link below:
-https://jeaninemjordan.github.io/plotlydeploy.io/
+https://jeaninemjordan.github.io/plotlydeploy.io/ 
 
 #### Summary
 
