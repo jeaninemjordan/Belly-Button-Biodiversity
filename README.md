@@ -1,5 +1,7 @@
 # Belly-Button-Biodiversity
 
+![](static/images/bacgif.gif) ![](static/images/bacteriagif2.gif)  ![](static/images/bacgif3.gif)
+
 ## Visualizing the Belly Button Biodiversity dataset on an interactive dashboard with Plotly.js and D3 in Javascript to explore the relationships between demographics and the microbial colonies discovered within belly buttons. 
  
 ### Project Overview
@@ -37,7 +39,7 @@ The dashboard features the following tools:
 * A bubble chart listing all the OTUs (operational axonomic units) discovered, where outliers can also be observed. 
 * A gauge chart that visualizes the number of weekly washes per test subject.
 
-IMAGES
+![](static/images/Weather_heatmap_windspeed.png)
 
 Once the web page app was created, it was deployed via Github and can be accessed using the link below:
 https://jeaninemjordan.github.io/plotlydeploy.io/ 
