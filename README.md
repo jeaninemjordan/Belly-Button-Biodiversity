@@ -5,7 +5,7 @@
 ## Visualizing the Belly Button Biodiversity dataset on an interactive dashboard with Plotly.js and D3 in Javascript to explore the relationships between demographics and the microbial colonies discovered within belly buttons. 
  
 ### Project Overview
-Bellybuttons: everybody has one, and yet the microbial inhabitants within our navels remain a mystery to most of us. The Public Science Lab of NC State University created the Belly Button Biodiversity Project, an exploratory analysis that investigated the microbe colonies living inside the navels of hundreds of participants from varying backgrounds. All participants provided their demographic statistics to the study so it could be determined what relationships between microbe species and demographics existed. 
+Bellybuttons: everybody has one, and yet the microbial inhabitants residing within our navels remain a mystery to most of us. The Public Science Lab of NC State University created the Belly Button Biodiversity Project, an exploratory analysis that investigated the microbe colonies living inside the navels of hundreds of participants from varying backgrounds. All participants provided their demographic statistics to the study so it could be determined what relationships between microbe species and demographics existed. 
 
 Molecular biology was conducted by the Public Science Lab at NC State to extract and sequence the DNA from the microbes collected from the participants’ belly buttons. Specifically, the 16S rRNA gene was analyzed, as it contains a molecular identifier use to distinguish one species of microbe from another. As a result, a list of microbial species and their quantities were produced to answer some of the following questions:
 
