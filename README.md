@@ -39,9 +39,28 @@ The dashboard features the following tools:
 * A bubble chart listing all the OTUs (operational axonomic units) discovered, where outliers can also be observed. 
 * A gauge chart that visualizes the number of weekly washes per test subject.
 
-![](static/images/Weather_heatmap_windspeed.png)
+Below is a screenshot of the Belly Button Biodiversity dashboard's full page, displaying data for test subject number 954:
+
+![](static/images/fullpage.jpg)
+
+Below is a screenshot of the test subject identification number dropdown and demographical statistics menu:
+
+![](static/images/options.jpg)
+
+Below is a screenshot of the bar chart listing the top ten OTUs (operational axonomic units) discovered in descending order:
+
+![](static/images/bar.jpg)
+
+Below is a screenshot of the bubble chart listing all the OTUs (operational axonomic units) discovered, where outliers can also be observed:
+
+![](static/images/bubble.jpg)
+
+Below is a screenshot of the gauge chart visualizing the number of weekly washes per test subject:
+
+![](static/images/gauge.jpg)
 
 Once the web page app was created, it was deployed via Github and can be accessed using the link below:
+
 https://jeaninemjordan.github.io/plotlydeploy.io/ 
 
 #### Summary
